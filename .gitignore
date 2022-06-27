@@ -1,0 +1,6 @@
+.pio
+.vscode
+*.txt
+*.log
+include/config.h
+include/*.config.h
