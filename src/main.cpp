@@ -15,8 +15,6 @@
 TinyGsmClient client(modem);
 PubSubClient mqtt(client);
 
-
-
 #define OUTPUT_1             2
 #define OUTPUT_2             15
 
